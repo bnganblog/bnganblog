@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/Redmi-K20Pro-f5010c?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.cn/)
-[![](https://img.shields.io/badge/iPhone-XS-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Xiaomi-6-999999?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Blackberry-Classic-000000?style=flat-square&logo=blackberry&logoColor=ffffff)](https://www.blackberry.com/)
 
 [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
