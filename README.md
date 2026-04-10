@@ -4,7 +4,7 @@
 </p>
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/steamworks-repo-blue?logo=steamworks)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/-dassaultsystemes-007acc?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Redmi-K20Pro-f5010c?style=flat-square&logo=Xiaomi&logoColor=ffffff)](https://www.mi.cn/)
@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Less-1d365d?style=flat-square&logo=less&logoColor=ffffff)](https://lesscss.org/)   
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
+[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=siemens&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-PostCSS-dd3a0a?style=flat-square&logo=postcss&logoColor=white)](https://postcss.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) 
